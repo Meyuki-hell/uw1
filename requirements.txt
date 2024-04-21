@@ -1,8 +1,8 @@
 # CUDA 11.1
-torch==2.0.1
-torchvision==0.9
+torch==1.10.0
+torchvision==0.11.1
 pyiqa
-mmcv-full==1.6.2
+mmcv-full==1.6.8
 tqdm
 seaborn
 scikit-image
